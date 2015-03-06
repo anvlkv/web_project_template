@@ -6,7 +6,10 @@
 */.AppleDouble
 .DS_Store/*
 .DS_Store
-node_modules/*
-bower_components/*
-test/*
-tests/*
+node_modules/
+bower_components/
+test/
+tests/
+*.sassc
+*.scssc
+*.log
