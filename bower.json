@@ -1,0 +1,27 @@
+{
+  "name": "project_template",
+  "version": "0.0.0",
+  "authors": [
+    "Aleksandr Novolokov <a.novolokov@ddgcorp.ru>"
+  ],
+  "description": "my default project template for front-end dev",
+  "keywords": [
+    "template",
+    "sass",
+    "compass",
+    "bootstrap",
+    "gulp"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-sass-official": "~3.3.3"
+  }
+}
