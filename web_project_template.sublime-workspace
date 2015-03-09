@@ -1,0 +1,1099 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"ce",
+				"center"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"bor",
+				"border-bottom"
+			],
+			[
+				"pad",
+				"padding-base-vertical"
+			],
+			[
+				"photo-",
+				"photo-popup"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"e",
+				"extend	@extend"
+			],
+			[
+				"le",
+				"left"
+			],
+			[
+				"l",
+				"left"
+			],
+			[
+				"and",
+				"andSelf	.andSelf()"
+			],
+			[
+				"sli",
+				"slides"
+			],
+			[
+				"sl",
+				"slides"
+			],
+			[
+				"slick",
+				"slickOptions"
+			],
+			[
+				"nth",
+				"nth-child"
+			],
+			[
+				"tr",
+				"true"
+			],
+			[
+				"titl",
+				"title	Attr"
+			],
+			[
+				"fee",
+				"feedItem"
+			],
+			[
+				"slide",
+				"slide_to_unfold"
+			],
+			[
+				"whi",
+				"white"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"feed",
+				"feedContent"
+			],
+			[
+				"clo",
+				"closest	.closest()"
+			],
+			[
+				"c",
+				"closest	.closest()"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"conta",
+				"containerWidth"
+			],
+			[
+				"p",
+				"padding"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"pb",
+				"padding-base-vertical"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"cont",
+				"container"
+			],
+			[
+				"pl",
+				"padding-left"
+			],
+			[
+				"ul",
+				"ul	<ul>"
+			],
+			[
+				"has",
+				"hasHero"
+			],
+			[
+				"slid",
+				"slideWidth"
+			],
+			[
+				"close",
+				"closeIcn"
+			],
+			[
+				"re",
+				"relative"
+			],
+			[
+				"de",
+				"debug	@debug"
+			],
+			[
+				"w",
+				"warn	@warn"
+			],
+			[
+				"if",
+				"if	@if"
+			],
+			[
+				"in",
+				"include	@include"
+			],
+			[
+				"la",
+				"layer-name"
+			],
+			[
+				"layer",
+				"layer-list"
+			],
+			[
+				"li",
+				"li	Tag"
+			],
+			[
+				"div",
+				"div	Tag"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"fo",
+				"for	@for"
+			],
+			[
+				"paxs",
+				"padding-xs-vertical"
+			],
+			[
+				"pda",
+				"padding-bottom"
+			],
+			[
+				"bo",
+				"bottom"
+			],
+			[
+				"bl",
+				"block"
+			],
+			[
+				"bsglyph",
+				"bs3-icon:glyphicon	bs3-icon-glyphicon"
+			],
+			[
+				"ti",
+				"title	Attr"
+			],
+			[
+				"a",
+				"a	<a>"
+			],
+			[
+				"b",
+				"background"
+			],
+			[
+				"item",
+				"itemWidth"
+			],
+			[
+				"add",
+				"addClass	.addClass()"
+			],
+			[
+				"cu",
+				"currentSlide"
+			],
+			[
+				"fa",
+				"fast"
+			],
+			[
+				"remove",
+				"removeClass	.removeClass()"
+			],
+			[
+				"prve",
+				"preventDefault"
+			],
+			[
+				"tri",
+				"trigger	.trigger()"
+			],
+			[
+				"remo",
+				"removeClass	.removeClass()"
+			],
+			[
+				"si",
+				"siblings	.siblings()"
+			],
+			[
+				"ad",
+				"addClass	.addClass()"
+			],
+			[
+				"cli",
+				"click	.click()"
+			],
+			[
+				"zi",
+				"z-index"
+			],
+			[
+				"impo",
+				"important"
+			],
+			[
+				"padbs",
+				"padding-base-vertical"
+			],
+			[
+				"alpha_",
+				"alpha_md"
+			],
+			[
+				"pala",
+				"padding-large-vertical"
+			],
+			[
+				"each",
+				"each	$.each()"
+			],
+			[
+				"css",
+				"css	.css() - single"
+			],
+			[
+				"red",
+				"ready	document.ready - $(function(){})"
+			],
+			[
+				"script",
+				"script	Tag"
+			],
+			[
+				"backrg",
+				"background-repeat"
+			],
+			[
+				"includ",
+				"include	@include"
+			],
+			[
+				"inc",
+				"include	@include"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"flo",
+				"float"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"bsbt",
+				"bs3-button	bs3-button"
+			],
+			[
+				"sect",
+				"section	Tag"
+			],
+			[
+				"padin",
+				"padding-base-horizontal"
+			],
+			[
+				"padba",
+				"padding-base-vertical"
+			],
+			[
+				"pav",
+				"padding-base-vertical"
+			],
+			[
+				"tra",
+				"transparent"
+			],
+			[
+				"borde",
+				"border"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"sc",
+				"script	Tag"
+			],
+			[
+				"alp",
+				"alpha_md"
+			],
+			[
+				"bmo",
+				"bs3-modal	bs3-modal"
+			],
+			[
+				"bsgly",
+				"bs3-icon:glyphicon	bs3-icon-glyphicon"
+			],
+			[
+				"rgb",
+				"rgba	rgba()"
+			],
+			[
+				"thi",
+				"this	$(this)"
+			],
+			[
+				"flex",
+				"flex-centered"
+			],
+			[
+				"read",
+				"ready	$(document).ready"
+			],
+			[
+				"doc",
+				"document"
+			],
+			[
+				"sh",
+				"showAllBttn"
+			],
+			[
+				"fade",
+				"fadeOut	.fadeOut()"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"lo",
+				"log"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"back",
+				"background-repeat"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"bacc",
+				"background-color"
+			],
+			[
+				"slides",
+				"slidesWidth"
+			],
+			[
+				"ea",
+				"each	$.each()"
+			],
+			[
+				"ta",
+				"transparent"
+			],
+			[
+				"n",
+				"none"
+			],
+			[
+				"head",
+				"header	<header>"
+			],
+			[
+				"bs3pah",
+				"bs3-panel:heading	bs3-panel-heading"
+			],
+			[
+				"bs3pa",
+				"bs3-panel:heading	bs3-panel-heading"
+			],
+			[
+				"img",
+				"img	Tag"
+			],
+			[
+				"bs3p",
+				"bs3-page-header	bs3-page header"
+			],
+			[
+				"b3p",
+				"bs3-panel	bs3-panel"
+			],
+			[
+				"inner",
+				"innerWidth	Window"
+			],
+			[
+				"cons",
+				"console.log('$0');"
+			],
+			[
+				"fun",
+				"function(){\n	$0\n})();	(function(){\n	$0\n})();"
+			],
+			[
+				"cosn",
+				"console.log('$0');"
+			],
+			[
+				"backgr",
+				"background-size"
+			],
+			[
+				"setTim",
+				"setTimeout(${0:func}, delay)	Window"
+			],
+			[
+				"sty",
+				"style	Attr"
+			],
+			[
+				"bsth",
+				"bs3-thumbnail	bs3-thumbnail"
+			],
+			[
+				"cl",
+				"class	Attr"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 347.0,
+		"selected_items":
+		[
+			[
+				"com",
+				"Run CSScomb"
+			],
+			[
+				"css",
+				"Run CSScomb"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"pak",
+				"Package Control: Install Package"
+			],
+			[
+				"sass",
+				"Set Syntax: Sass"
+			],
+			[
+				"java",
+				"Set Syntax: jQuery (JavaScript)"
+			],
+			[
+				"jas",
+				"Set Syntax: jQuery (JavaScript)"
+			],
+			[
+				"diff",
+				"Set Syntax: Diff"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"comb",
+				"Sort via CSScomb"
+			],
+			[
+				"blckr",
+				"DocBlockr: Decorate line comment"
+			],
+			[
+				"wra",
+				"HTML: Wrap Selection With Tag"
+			],
+			[
+				"snip",
+				"Snippet: html"
+			],
+			[
+				"comm",
+				"DocBlockr: Decorate line comment"
+			],
+			[
+				"ta",
+				"Tasks: Complete"
+			],
+			[
+				"tas",
+				"Tasks: New"
+			],
+			[
+				"pa",
+				"Package Control: Disable Package"
+			],
+			[
+				"",
+				"Emmet: Decrement Number by 0.1"
+			],
+			[
+				"brow",
+				"Preferences: Browse Packages"
+			],
+			[
+				"task",
+				"Set Syntax: Tasks"
+			],
+			[
+				"terminal",
+				"Preferences: Terminal Key Bindings – Default"
+			],
+			[
+				"pal",
+				"Package Control: Install Package"
+			],
+			[
+				"emm",
+				"Emmet: Reload Extensions"
+			],
+			[
+				"ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"emmet",
+				"Emmet: Expand Abbreviation"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"todo",
+				"SimpleTODO: List TODO"
+			],
+			[
+				"dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"git",
+				"Git: Push"
+			],
+			[
+				"git co",
+				"Git: Commit"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"en",
+				"Package Control: Enable Package"
+			],
+			[
+				"live",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"lvi",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"list pa",
+				"Package Control: List Packages"
+			],
+			[
+				"all a",
+				"Package Control: List Packages"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"Pack",
+				"Package Control: List Packages"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"di",
+				"Package Control: Disable Package"
+			],
+			[
+				"pacl",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"Pa",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 125.0,
+		"history":
+		[
+			"diffy",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"-help",
+			"--help",
+			"help",
+			"restart",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/anvlkv/Projects/arcai/artist.html",
+		"/Users/anvlkv/Projects/arcai/sass/_flexslider.scss",
+		"/Users/anvlkv/Projects/arcai/artists.html",
+		"/Users/anvlkv/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/anvlkv/Projects/arcai/sass/_custom_extensions.scss",
+		"/Users/anvlkv/Projects/arcai/sass/_base.scss",
+		"/Users/anvlkv/Projects/arcai/sass/_overrides.scss",
+		"/Users/anvlkv/Projects/arcai/sass/_map_style.scss",
+		"/Users/anvlkv/Projects/arcai/sass/_top_lsides.scss",
+		"/Users/anvlkv/Projects/arcai/_overrides;",
+		"/Users/anvlkv/Projects/arcai/scss/_base.scss",
+		"/Users/anvlkv/Projects/arcai/sass/fontawesome/_variables.scss",
+		"/Users/anvlkv/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/anvlkv/Desktop/task2.pas",
+		"/Users/anvlkv/Projects/fallinlovehostel/js/index2.js",
+		"/Users/anvlkv/Projects/fallinlovehostel/js/modernizr-latest.js",
+		"/Users/anvlkv/Projects/fallinlovehostel/js/modernizr.custom.41656.js",
+		"/Users/anvlkv/Library/Application Support/Sublime Text 3/Packages/Diffy/Diffy.sublime-settings",
+		"/Users/anvlkv/Projects/fallinlovehostel/js/jquery.connected-jcarousels.js",
+		"/Users/anvlkv/Projects/fallinlovehostel/js/jquery.single-jcarousels.js",
+		"/Users/anvlkv/Projects/fallinlovehostel/sass/_jQueryUi.scss",
+		"/Users/anvlkv/Projects/fallinlovehostel/scss/_jQueryUi.scss",
+		"/Users/anvlkv/Projects/fallinlovehostel/fallinlovehostel.TODO",
+		"/Users/anvlkv/Projects/fallinlovehostel/images/logos/airplane-512.png",
+		"/Users/anvlkv/Library/Application Support/com.visualpharm.Icons8/Icons/iOS7/PNG/512/Transport/airplane-512.png",
+		"/Users/anvlkv/Projects/fallinlovehostel/sass/_jCarousel.scss",
+		"/Users/anvlkv/Library/Application Support/Sublime Text 3/Packages/User/SCSS.sublime-settings",
+		"/Users/anvlkv/Projects/fallinlovehostel/index.html",
+		"/Users/anvlkv/Projects/fallinlovehostel/newsfeed.html",
+		"/Users/anvlkv/Projects/fallinlovehostel/sass/_valueProcessingFunctions.scss",
+		"/Users/anvlkv/Projects/fallinlovehostel/sass/_background.scss",
+		"/Users/anvlkv/Projects/fallinlovehostel/images/dIs9eFdJW4k.jpg",
+		"/Users/anvlkv/Projects/fallinlovehostel/_fonts.scss",
+		"/usr/local/lib/fpc/2.6.2/units/i386-darwin/cairo/cairo.ppu",
+		"/Users/anvlkv/Library/Application Support/Sublime Text 3/Packages/Terminal/Default (OSX).sublime-keymap",
+		"/Users/anvlkv/Google Drive/ТУСУР/3-й Семестр/Контрольные/TUSUR/Algorithms/2/task4nc.pas",
+		"/Users/anvlkv/Google Drive/ТУСУР/3-й Семестр/Контрольные/TUSUR/Algorithms/task3",
+		"/Users/anvlkv/Downloads/cpp_sample/makefile",
+		"/Users/anvlkv/Projects/CPP/Sales_item.h",
+		"/Users/anvlkv/Projects/CPP/prog2.cpp",
+		"/Users/anvlkv/Projects/TUSUR/OOP/CPP/LAB1/main.h",
+		"/Users/anvlkv/Projects/Mugeo/mugeo_1.html",
+		"/Users/anvlkv/Projects/Mugeo/mugeo_2.html",
+		"/Users/anvlkv/Projects/Mugeo/config.rb",
+		"/Users/anvlkv/Projects/Mugeo/sass/_variables.scss",
+		"/Users/anvlkv/Library/Application Support/Sublime Text 3/Packages/PlainTasks/messages/Tutorial.todo",
+		"/Users/anvlkv/Projects/Mugeo/mugeo.TODO",
+		"/Users/anvlkv/Projects/Mugeo/stylesheets/screen.css",
+		"/Users/anvlkv/Library/Application Support/Sublime Text 3/Packages/User/SCSS-NV-emRelToBaseEm.sublime-snippet",
+		"/Users/anvlkv/Projects/Mugeo/sass/test.scss",
+		"/Users/anvlkv/Projects/Mugeo/sass/screen.scss",
+		"/Users/anvlkv/Projects/Mugeo/sass/_vars-typeplate.scss",
+		"/Users/anvlkv/Projects/Mugeo/sass/_styles.scss",
+		"/Users/anvlkv/Projects/Mugeo/sass/_layout_mixins.scss",
+		"/Users/anvlkv/Library/Application Support/Sublime Text 3/Packages/User/scss_vars_auto_cmpl.py",
+		"/Users/anvlkv/Projects/Mugeo/Gemfile",
+		"/Users/anvlkv/Projects/Mugeo/sass/_base.scss",
+		"/Users/anvlkv/Projects/Mugeo/sass/variables.scss",
+		"/Users/anvlkv/Library/Application Support/Sublime Text 2/Packages/User/Sass.sublime-settings",
+		"/Users/anvlkv/Projects/Mugeo/sass/screen.sass",
+		"/Users/anvlkv/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/anvlkv/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/anvlkv/Projects/CPP/prog6.cpp",
+		"/Users/anvlkv/Projects/CPP/prog5.cpp",
+		"/Users/anvlkv/Projects/DataVisualStudy/data.csv",
+		"/Users/anvlkv/Projects/DataVisualStudy/donut.html",
+		"/Users/anvlkv/Projects/DataVisual Study/data.csv",
+		"/Users/anvlkv/info.plist",
+		"/Users/anvlkv/Projects/DataVisual Study/wunder-data-3.txt",
+		"/Users/anvlkv/Projects/DataVisual Study/csv-xml-weather",
+		"/Users/anvlkv/Documents/Django-practice/mysite/books/models.py"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"<open folders>",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"person",
+			"container-fullwidth",
+			"<div class=\"btn-group\" role=\"group\" aria-label=\"\">\n							<button type=\"button\" class=\"btn btn-default icSocial\"><i class=\"fa fa-facebook-square\"></i></button>\n							<button type=\"button\" class=\"btn btn-default icSocial\"><i class=\"fa fa-twitter\"></i></button>\n							<button type=\"button\" class=\"btn btn-default icSocial\"><i class=\"fa fa-vk\"></i></button>\n							<button type=\"button\" class=\"btn btn-default icSocial\"><i class=\"fa fa-envelope-o\"></i></button>\n						</div>",
+			"nth-child",
+			"feedContent",
+			"artists",
+			"collapseOne",
+			"headingOne",
+			"3",
+			"false",
+			"$(this)",
+			"1",
+			"2",
+			"4",
+			"3",
+			"wip",
+			"slickOptionsInit",
+			"itemWidth",
+			"width",
+			"15px",
+			"headingOne",
+			"collapseOne",
+			"index, val",
+			"4",
+			" width=\"165\" height=\"110\"",
+			"$container",
+			"slide_to_unfold",
+			"-",
+			"color",
+			"h3",
+			"collapseOne",
+			"headingOne",
+			"imageCrop",
+			"gallery",
+			"imageCrop",
+			"grid",
+			"-25px",
+			"feed",
+			"560",
+			"img",
+			"doMath",
+			"400",
+			"1",
+			"<a class=\"closeIcn btn-icn\" href=\"#\" title=\"Close\"><i class=\"fa fa-close\"></i></a>",
+			"color",
+			"copy",
+			"body",
+			"<i class=\"fa fa-close closeBtn\"></i>",
+			"<a href=\"#\" title=\"Close\"><i class=\"fa fa-close closeBtn\"></i></a>",
+			"<i class=\"fa fa-close closeBtn\"></i>",
+			".feedF",
+			"<a type=\"button\" class=\"btn btn-primary\" href=\"artist.html\">",
+			"feedFold col-xs-12 col-sm-10 col-md-8",
+			"<div class=\"feedFold\">",
+			"20px",
+			"$elevation-max",
+			"$brand-primary",
+			"z-in",
+			"backgroundBefore",
+			"backgrundBefore",
+			"projects",
+			"var",
+			"z-order",
+			"<a type=\"button\" class=\"btn btn-primary\">Linda Bournane Engelberth at ARC.A.I</a>",
+			"container-fullwidth",
+			"http://arcai.org/",
+			"http://arcai.org",
+			"<a class=\"closeBtn\" href=\"#\" title=\"CLOSE\"></a>",
+			"<i class=\"fa fa-times\"></i>",
+			"<div class=\"itemContentWrapper\">",
+			"   				<div class=\"backgroundWrapper\" ></div>\n",
+			"0px",
+			"z-index",
+			"<div class=\"backgroundWrapper\"",
+			".container-fullwidth",
+			"<li class=\"feedItem\"",
+			"style=\"background-image:url(",
+			"cover",
+			"stripeFold",
+			"stripeItem",
+			"stripeContent",
+			"artistID_",
+			"FEED",
+			"<ul class=\"stripeContent\">\n   			<li class=\"stripeItem\">\n   				<a class=\"personaMini\" href=\"#artistID_1\" title=\"Artis Name\">\n	   				<img class=\"personaPhoto\" src=\"assets/images/artists/linda.jpg\">\n	   				<div class=\"personaData\">\n	   					<h3 class=\"name\">Linda Bournane Engelberth</h3>\n	   					<h4 class=\"base\">Oslo, Norway</h4>\n	   					<h4 class=\"field\">Photographer</h4>\n	   				</div>\n   				</a>\n   				<div class=\"stripeFold\">\n   					<article>\n   						<h4>Bio:</h4>\n   						<p>Linda Bournane Engelberth received her certificate in photography in 2003. She presently works with in-depth documentary projects and over the past few years, Engelberth’s work has won several prizes including international photodocumentary of the year, Norway 2013. Her work is shown at the Nobel Peace Centre, Hallingdal Museum and at the Oslo City Hall. She has also participated in several exhibitions in New York and various other exhibitions in Europe. From 2011-2013 she was chosen to be part of Norwegian Journal of Photography, a program supporting 10 independent documentary photographers in Norway. Her latest work from Latvia is now on exhibition in Lucca, Italy and was selected for the European Photo Exhibition Award.</p>\n   						<h4>Proposal:</h4>\n   						<p>For a long time I have been thinking about doing art work in the north of Russia, and Homestay will allow a chance for me to engage in an artistic practice in Murmansk. As of now, my starting point is a vested interest in making a Super 8 short film that includes different areas and different families from Murmansk as actors in the movie. I will develop a more settled idea in the coming months.</p>\n   						<a type=\"button\" class=\"btn btn-primary\">Linda Bournane Engelberth at ARC.A.I</a>\n   					</article>\n   				</div>\n   			</li>\n   		</ul>",
+			"base",
+			"15px",
+			"<link href=\"stylesheets/font-awesome.min.css\" rel=\"stylesheet\" type=\"text/css\" />",
+			"099fad",
+			"<h2>",
+			"webfonts",
+			"border-ra",
+			"	pointer-events:none;",
+			"slider",
+			"this",
+			"slider",
+			"0,0,0",
+			"color",
+			"project-name",
+			"image-crop",
+			"project-thumb",
+			"navbar",
+			"padd",
+			"padding-bas",
+			"padding",
+			"img/",
+			"93.jpg",
+			"66.jpg",
+			"data-src=\"holder.js/90x90\"",
+			"project-thumb",
+			"infoWindow",
+			"contentPlaceHolder",
+			"'",
+			"\"",
+			"GHA",
+			"2",
+			"00",
+			"a href=\"#\" class=\"thumbnail\"",
+			"BackendController",
+			"show",
+			".collapsed",
+			"<h3>",
+			"label",
+			"Modernizr",
+			"caarouse",
+			"jqueryui",
+			"animation-duration",
+			"animtaion-duration",
+			"inherit"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"<link rel=\"stylesheet\" href=\"//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css\">"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "web_project_template.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"sass/_bootstrap-variables.scss"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 245.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
