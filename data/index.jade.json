@@ -1,0 +1,19 @@
+{
+    "page": "Page Name",
+    "pageTitle": "Page Title",
+    "pageDescription": "Page description text",
+    "pageAuthor": "Page author name",
+    "pageKeywords": "keywords list",
+    "pageSocial":[
+        {
+            "system":"og",
+            "tag":"name",
+            "value":"og name value"
+        },
+        {
+            "system":"twitter",
+            "tag":"title",
+            "value":"og name value"
+        }
+    ]
+}

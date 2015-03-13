@@ -1,0 +1,41 @@
+if pageSocial
+	head(prefix='og: http://ogp.me/ns#')
+else
+	head
+
+//- Meta
+meta(charset='utf-8')
+meta(http-equiv='X-UA-Compatible', content='IE=edge,chrome=1')
+
+meta(name='viewport', content='width=device-width, initial-scale=1.0')
+
+//- Page description
+meta(name='description', content=pageDescription)
+meta(name='author', content=pageAuthor)
+meta(name='keywords', content=pageKeywords)
+
+title= pageTitle
+
+//- Social
+
+if pageSocial
+	each property in pageSocial
+		//- Open Graph tags
+		if property.system == 'og'
+			meta(
+				property = property.system + ':' + property.tag,
+				content = property.value
+				)
+		else
+			meta(
+				name = property.system + ':' + property.tag,
+				content = property.value
+				)
+
+//- Styles
+
+link(rel="stylesheet", type="text/css", href="css/styles.css")
+
+//- Scripts
+
+script(type="application/javascript", src="js/main.js")
